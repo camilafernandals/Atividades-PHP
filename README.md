@@ -1,2 +1,2 @@
-Aqui estão incluídas todas as atividades PHP realizadas durante a segunda unidade, 
+Aqui estão incluídas todas as atividades PHP realizadas durante a terceira unidade, 
 explorando conceitos e tags dessa linguagem.
