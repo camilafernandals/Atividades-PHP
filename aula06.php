@@ -22,6 +22,25 @@
     echo $carros[11] , "<br>"; //Resultado Versa
     echo $carros[12] , "<br>"; //Resultado Sandero
 
+    $carros["s1"] = "Siena"; // Usando string como índice
+    echo $carros["s1"], "<br>"; // Resultado Siena
+    echo $carros [13], "<br>";
+    $carros[13] = "Ferrari";
+    echo $carros [13], "<br>";
+    $carros [5] = "Fusca";
+
+    //$carros ['cd'] = "Comander";
+   // echo $carros ['cd'] , "<br>";
+
+    echo "<h1> Impressão complate de Arrey </h1>";
+    echo "<pre>";
+    print_r ($carros);
+    echo "</pre>";
+
+    echo "<pre>";
+    var_dump ($carros);
+    echo "</pre>";
     ?>
+
 </body>
 </html>
